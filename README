@@ -1,0 +1,13 @@
+Zeke's Reader
+
+For reading pdfs outloud utilising PyPDF2 and pyttsx3
+
+Both libraries must be installed using 
+
+pip install pyttsx3 
+and
+pip install PyPDF2
+
+On windows pywin32 pypiwin32 must also be installed
+
+On linux espeak and ffmpeg packages must be installed
