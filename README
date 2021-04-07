@@ -1,8 +1,8 @@
 Zeke's Reader
 
-For reading pdfs outloud utilising PyPDF2 and pyttsx3
+For reading pdfs utilising PyPDF2 and pyttsx3
 
-Both libraries must be installed using 
+Both modules must be installed using 
 
 pip install pyttsx3 
 and
